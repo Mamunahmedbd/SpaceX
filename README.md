@@ -18,7 +18,7 @@ I have used the React router dom v6 and  animation fof interaction and attractiv
    ```
 3. Go to the cloned project directory
    ```sh
-   cd think-in-a-redux-way
+   cd SpaceX
    ```
 4. Install dependencies
    ```sh

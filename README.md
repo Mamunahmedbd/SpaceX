@@ -10,7 +10,27 @@ I have used the React router dom v6 and  animation fof interaction and attractiv
 
 ## Available Scripts
 
-In the project directory, you can run:
+1. In the project directory, you can run:
+
+2. Clone this repository -
+   ```sh
+   git clone https://github.com/Mamunahmedbd/SpaceX.git
+   ```
+3. Go to the cloned project directory
+   ```sh
+   cd think-in-a-redux-way
+   ```
+4. Install dependencies
+   ```sh
+   npm i or yarn
+   ```
+5. Install VS Code [Live Server plugin](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) & start the server.
+   ```sh
+   npm start or yarn start
+   ```
+6. Your app should be available in http://localhost:3000
+
+<br>
 
 ### `yarn start`
 

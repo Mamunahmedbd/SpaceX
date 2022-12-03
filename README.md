@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+## I am Mamun Ahmed. I am a Front End Web Developer. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My core web language is JavaScript.I have completed the SpaceX project with interacting feature with JavaScript Although, I know Typescript but the JavaScript is more comfortable to use than the Typescript but, I  have extensive knowledge and practical experience in the JavaScript because in my programming journey I have learned all about JavaScript by myself so as a  self taught programer i have solved uncountable problems related to the JavaScript that is why i always prefer to use the language for interacting website. As well as, I have used React as a UI library, and CSS framework tailwind CSS because i knew the Tailwind better than others because its simple and very used to the framework. 
+
+In this project i have used four filters and one search box option and in the footer section i have use the pagination option because its very crucial when a visitor come to a website they may try to visit next page of the website at that the pagination option can help very spontaneously without any sort of hassle as a web developer my duties are trying to  provide the best user experiences to the visitor as they are one kind of guest the more comfortable you can provide the more time they will spend and purchase they will do so fun. 
+
+## In the entire project I have used Redux and RTK Query for data fetching and caching systems and the RTK Query by default data cache which was set for 60 seconds and  I have decreased  the time to 5 seconds.
+
+I have used the React router dom v6 and  animation fof interaction and attractive visualization. In this project the search box i have made on the client side because there is not a single query string on the server side API that is why i have to keep the search option on the Client side. 
 
 ## Available Scripts
 
